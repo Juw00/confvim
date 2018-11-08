@@ -13,6 +13,8 @@ call plug#end()
 syntax enable
 set title 
 set nu "affiche les lignes"
+:highlight LineNr ctermfg=248 ctermbg=234
+
 set showmode
 set mouse=a
 
